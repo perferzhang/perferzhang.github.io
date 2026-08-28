@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,38 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
+* **Ph.D. Candidate**, Xi'an University of Technology (*Xi'an, China*)
+  * Focus: Spatio-temporal deep learning and wireless network traffic forecasting.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Professional Certifications
+* **Senior Engineer (高级工程师)**
+* **Telecommunication Engineer (通信工程师)**
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Professional Experience
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **Technical Expert** | Qinxin Intelligent Computing (Shaanxi) Technology Co., Ltd.  
+  *May 2026 – Present | Xi'an, China*  
+  * Leading research and industrial solution design for AI technologies, edge intelligence, and spatio-temporal data modeling.
+
+* **Project Manager / Technical Lead** | CICT Mobile Communication Technology Co., Ltd.  
+  *Jan 2020 – Apr 2026*  
+  * Managed integrated sensing and communications (ISAC) management software, AIOps, and 5G unified network management customization projects.  
+  * Led research and engineering for 5G performance analytics and intelligent network maintenance, resulting in multiple invention patents.
+
+* **R&D Engineer** | Datang Mobile Communications Equipment Co., Ltd.  
+  *Jul 2015 – Dec 2019*  
+  * Core designer and developer for 4G LTE-OMC and 5G unified network management systems (UEM5000).  
+  * Developed core subsystems including automated deployment, measurement report (MR) collecting clusters, performance statistics, smart energy saving, and interference analysis.  
+  * The LTE-OMC product has been deployed in over 30 provincial administrative regions across China.
+
+---
+
+## Key Projects & Engineering Achievements
+* **5G Unified Network Management Software (UEM5000)** (2018 – 2020)
+  * Software Registration: `2019SR0621575`.
+  * Patented a novel 5G wireless measurement report processing device and real-time load balancing architecture.
+* **4G LTE-OMC Network Management System** (2015 – 2017)
+  * Led large-scale production deployment across national telecom carriers; authorized 3 utility model patents.
